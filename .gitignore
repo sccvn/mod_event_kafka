@@ -8,7 +8,7 @@
 # Compiled Object files
 *.slo
 *.lo
-*.o
+#*.o
 *.obj
 
 # Precompiled Headers
@@ -16,7 +16,7 @@
 *.pch
 
 # Compiled Dynamic libraries
-*.so
+#*.so
 *.dylib
 *.dll
 
@@ -54,7 +54,7 @@ cmake_install.cmake
 install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
-build
+#build
 CMakeLists.txt
 cmake-build-debug/
 
